@@ -1,0 +1,7 @@
+<!-- DO NOT EDIT THIS, THIS FILE IS GENERATED FROM "plan-base.original.svg" using transform-svgs.js script -->
+<svg width="3200" height="1600" viewBox="0 0 3200 1600" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path data-nr="c1" class="plan__svg__hoverable" d="M1652 720V1529L1824.5 1531L1907 1525V813.5L1872.5 811.5V706.5L1799 700.5L1652 720Z" />
+<path data-nr="c2" class="plan__svg__hoverable" d="M1323.5 702V1529H1652V720H1525V702L1373.5 688.5L1323.5 702Z" />
+<rect data-nr="c2" class="plan__svg__anchor " x="1291" y="944" width="50" height="50" />
+<rect data-nr="c1" class="plan__svg__anchor " x="1887" y="944" width="50" height="50" />
+</svg>

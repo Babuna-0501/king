@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- DO NOT EDIT THIS, THIS FILE IS GENERATED FROM "2_13-22_4.original.svg" using transform-svgs.js script -->
+<!-- Generator: Adobe Illustrator 24.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg version="1.1" id="Слой_1" xmlns:x="&ns_extend;" xmlns:i="&ns_ai;" xmlns:graph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 150 100"
+	 style="enable-background:new 0 0 150 100;" xml:space="preserve"><g transform="translate(11.11472559766214 7.4098170651080935) scale(0.8518036586978381)">
+<style type="text/css">
+	.st0{fill:#DBD4CA;}
+	.st1{fill:none;stroke:#565440;}
+	.st2{fill:#565440;}
+</style>
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  bottomLeftOrigin="true" height="100" width="74.8813705" x="37.5593147" y="0"></sliceSourceBounds>
+	</sfw>
+</metadata>
+<polygon id="Floor_1_" class="st0" points="38.0915337,0.0000181 110.2208557,0.024946 110.2208557,89.1954727 
+	38.1067963,89.1954727 "/>
+<path id="Windows" class="st1" d="M109.8762283,0.5128945v1.5386388L52.4330139,2.0515499V0.5129126L109.8762283,0.5128945z"/>
+<path id="Doors" class="st1" d="M76.1854782,46.0908241c1.1283798,0,2.0515213,0.2052269,3.0772705,0.61549
+	c1.0257721,0.4102592,1.9490051,1.0257416,2.6670227,1.7437515c0.8206406,0.7180977,1.4361115,1.6412659,1.8463898,2.6670113
+	c0.4102554,1.0257492,0.6154938,2.0515289,0.6154938,3.1798897h-8.2061539 M76.1854782,72.5752335
+	c1.1283798,0,2.0515213-0.2052307,3.0773621-0.6154938c1.0257721-0.4102631,1.9490051-1.0257416,2.6670151-1.7437515
+	c0.8206482-0.7181015,1.4361191-1.6412659,1.8463974-2.6670151c0.4102554-1.0257492,0.6154938-2.0515289,0.6154938-3.1798859
+	h-8.2061539 M70.9781036,89.2422333c0,1.3334961-0.3077545,2.5644073-0.8206406,3.795372
+	c-0.5128632,1.2310181-1.2308807,2.4618912-2.2566299,3.385025c-0.9232559,0.9232254-2.0515213,1.7437515-3.2825089,2.2567596
+	C63.3874207,99.1922607,62.053936,99.5,60.7204285,99.5V89.2423325"/>
+<g id="Walls">
+	<rect x="88.8479233" class="st2" width="7.1804051" height="5.1289053"/>
+	<polygon class="st2" points="75.1597061,46.0908356 76.1854782,46.0908356 76.1854782,5.0200219 74.487114,5.0200219 74.487114,0 
+		67.3067093,0 67.3067093,6.0457945 75.1597061,6.0457945 	"/>
+	<polygon class="st2" points="40.636631,64.8819656 59.6252518,64.8819656 59.6252518,63.8561935 40.636631,63.8561935 
+		40.6365891,6.149497 52.9459,6.149497 52.9459,0 37.5593147,0.0000447 37.5593605,89.2422256 40.636631,89.2422256 
+		60.7204285,89.2422256 60.7204285,86.1648178 40.636631,86.1648636 	"/>
+	<polygon class="st2" points="112.4406357,0 109.3633652,0 109.3633652,62.0518913 76.1854782,62.0519371 76.1854782,54.2969666 
+		75.1597061,54.2969666 75.1597061,64.3690796 76.1854782,64.3690796 76.1854782,63.0776634 109.3633652,63.0776634 
+		109.3633652,86.1648178 76.1900787,86.1648178 76.1900787,72.5737839 75.1643066,72.5737839 75.1643066,86.1648178 
+		70.978241,86.1648178 70.978241,89.2422256 109.3634109,89.2422256 112.4406815,89.2422256 	"/>
+</g>
+</g></svg>
