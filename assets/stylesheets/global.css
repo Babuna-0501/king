@@ -11350,7 +11350,7 @@ body {
 .ui-dark .text--color-olive,
 .ui-olive .text--color-olive,
 .ui-pink .text--color-olive {
-    color: #565440
+    color: #e9e4dc
 }
 
 .text--color-additional-quartz,
@@ -11364,7 +11364,7 @@ body {
 .ui-dark .text--color-pink,
 .ui-olive .text--color-pink,
 .ui-pink .text--color-pink {
-    color: #c49f8a
+    color: #e9e4dc
 }
 
 @media print {
