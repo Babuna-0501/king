@@ -2614,8 +2614,8 @@ only screen and (max-width:979px) and (max-height:415px) and (min-aspect-ratio:1
     }
     .place__title {
         top: calc(var(--spacing) * -1);
-        right: -6.25vw;
-        font-size: 24.375vw;
+        right: 5.75vw;
+        font-size: 17.375vw;
         line-height: 1em;
         letter-spacing: -.04em
     }
@@ -2749,7 +2749,7 @@ only screen and (min-width:980px) {
 .place-circle__outer circle,
 .place-circle__outer line {
     fill: none;
-    stroke: #c49f8a
+    stroke: #c49f8a;
 }
 
 .place-circle__outer {
@@ -3910,5 +3910,15 @@ only screen and (min-width:980px) {
     }
     .about-choice__title>p {
         margin-top: 25px
+    }
+}
+
+@media only screen and (max-width:756px) {
+    .text--car {
+        margin-left: 4vw;
+    }
+
+    .text--location {
+        font-size: 2.267vw;
     }
 }
