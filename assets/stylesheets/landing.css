@@ -3921,4 +3921,7 @@ only screen and (min-width:980px) {
     .text--location {
         font-size: 2.267vw;
     }
+    .text_only--villa {
+        white-space: nowrap;
+    }
 }
