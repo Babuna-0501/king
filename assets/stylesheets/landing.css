@@ -3065,7 +3065,7 @@ only screen and (min-width:980px) {
 }
 
 .map-image {
-    position: relative;
+    /* position: relative; */
     overflow: hidden;
     margin-top: calc(var(--spacing) * 3.5);
     margin-bottom: calc(var(--spacing) * 6);
@@ -3075,11 +3075,11 @@ only screen and (min-width:980px) {
 
 .map-image__image {
     position: absolute;
-    left: 50%;
-    top: 50%;
-    height: 100%;
+    left: 44%;
+    top: 41%;
+    height: 84%;
     width: auto;
-    transform: translate(-53.125%, -50%)
+    transform: translate(-53.125%, -50%);
 }
 
 .map-image__pin {
@@ -3113,7 +3113,7 @@ only screen and (min-width:980px) {
     position: absolute;
     left: 0;
     right: 0;
-    bottom: calc(var(--spacing) * 2);
+    bottom: calc(var(--spacing) * 1);
     padding: var(--spacing);
     display: flex;
     justify-content: center

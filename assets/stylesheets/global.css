@@ -20661,7 +20661,7 @@ only screen and (max-width:979px) and (max-height:415px) and (min-aspect-ratio:1
         padding-right: var(--spacing)
     }
     .menu__nav ol a {
-        line-height: 1.09836em
+        line-height: 1.59836em
     }
 }
 
