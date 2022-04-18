@@ -5876,7 +5876,8 @@ only screen and (min-width:980px) {
 }
 
 .btn--icon>.btn__content {
-    height: 25px
+    height: 25px;
+    left: 8px;
 }
 
 @media only screen and (min-width:1200px) {
@@ -5908,7 +5909,8 @@ only screen and (min-width:980px) {
 }
 
 .btn--icon.btn--square {
-    width: 25px;
+    width: 10px;
+    height: 15px;
     padding-left: 0;
     padding-right: 0;
     flex-grow: 0;
@@ -20241,8 +20243,6 @@ only screen and (min-width:980px) {
     width: 100vw;
     max-width: 480px;
     height: 200px;
-    display: flex;
-    flex-wrap: nowrap;
     padding: 0;
     filter: drop-shadow(0 -1px 0 rgba(44, 41, 38, .1)) drop-shadow(0 20px 80px rgba(44, 41, 38, .15))
 }
@@ -20276,8 +20276,8 @@ only screen and (min-width:980px) {
     position: absolute;
     bottom: 0;
     right: 34px;
-    width: 98px;
-    height: 106px;
+    width: 200px;
+    height: 140px;
     display: block
 }
 
@@ -21750,5 +21750,24 @@ only screen and (min-width:980px) {
 @media only screen and (min-width:1440px) {
     .apartment-list-more .btn {
         margin-top: var(--spacing-1-5)
+    }
+}
+
+@media only screen and (max-width:568px) {
+    .section_plan {
+        width: 100vw;
+        height: auto;
+        position: relative;
+        top: 25rem;
+        padding: 20px;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+    .section_plan h1 {
+        color: #2C2926;
+        font-size: 50px;
+    }
+    .plan_cs--wrapper {
+        height: 210px;
+        min-height: unset;
     }
 }
