@@ -38,7 +38,13 @@ ul.tabs li.current{
     background: #E9E4DC;
     padding: 10px;
     font-size: 9px;
+  
+}
+
+.tab-content--inner {
     border-bottom: 1px solid #E5E2D9;
+    padding-bottom: 12.5px;
+    padding-top: 12.5px;
 }
 
 .tab-content.current{
@@ -62,4 +68,32 @@ ul.tabs li.current{
 .n_plan {
     width: 31px;
     height: 31px;
+}
+
+.tab-content--btm {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 15px;
+}
+
+.tab-content--btm--img1 {
+    width: 106px;
+}
+
+.tab-content--btm--img2 {
+    width: 31px;
+}
+
+.tab-content--btm--txt {
+    font-family: Roboto , sans-serif;
+    font-size: 11px;
+    color: #A69C8C;
+}
+
+.tab-content--btm--txt span {
+    color: #565440;
+    font-size: 18px;
+    margin-top: 4px;
 }

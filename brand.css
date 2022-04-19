@@ -1,0 +1,50 @@
+.brand_cs--wrapper {
+    background-color: #C49F8A;
+}
+
+.brand_cs--wrapper  .section_brand {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.brand_cs--wrapper  .section_brand h1 {
+    font-family: Roboto;
+    font-size: 32px;
+    font-weight: 300;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.11;
+    letter-spacing: normal;
+    text-align: left;
+    color: #fff;
+    position: relative;
+    z-index: 1;
+    top: 190px;
+}
+
+.section_brand--img {
+    margin-left: auto;
+    padding-top: 10rem;
+    width: 366px;
+}
+
+.section_brand--img img {
+    width: 366px;
+    height: auto;
+    position: absolute;
+    z-index: 0;
+}
+
+
+.section_brand .section_brand--small {
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    text-align: left;
+    color: #2c2926;
+    margin-top: 24rem;
+}
